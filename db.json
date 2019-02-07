@@ -1,863 +1,428 @@
 {
-    "_id" : ObjectId("5c1bacb8698d8a25205373c1"),
-    "ArtDieserVorlage" : "Stellenanzeige",
-    "Kennziffer" : "18-esa-00427",
-    "Doku_Id" : "P003757856",
-    "LastUser" : "v.lueck2",
-    "LastEdit" : ISODate("2018-12-21T16:16:05.416Z"),
-    "Ausschreibungsstatus" : "offen",
-    "Bearbeitungsstatus" : "Veröffentlicht",
-    "Buchungskreis" : "100",
-    "Postfach" : {
-        "Value" : null,
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "Kostenstelle" : {
-        "Value" : "1002102",
-        "HtmlText" : null,
-        "_id" : "1002102",
-        "text" : "1002102 Personalservice",
-        "Editable" : true
-    },
-    "KostenstelleBezeichnung" : null,
-    "TextAlsterdorf" : {
-        "Value" : "Willkommen in der Evangelischen Stiftung Alsterdorf. Als diakonisches Dienstleistungsunternehmen in Norddeutschland mit rund 6.000 Mitarbeitenden sind wir schwerpunktmäßig in den Bereichen Eingliederungshilfe, Bildung und Medizin tätig.",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "UrlDerGesellschaft" : {
-        "Value" : "www.alsterdorf.de",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "UrlDerEsa" : {
-        "Value" : null,
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "UrlDerAnzeige" : [ 
-        "http://stage-alsternet.alsterdorf.de/aktuelles/stellenausschreibungen/stellenausschreibung/personalassistentin-mwti-in-teilzeit-20-stundenwoche/", 
-        "https://www.alsterdorf.de/mitarbeit-karriere/stellenangebote/stellenangebot/personalassistentin-mwti-in-teilzeit-20-stundenwoche.html", 
-        "https://www.alsterdorf.de/jobs/job/Job-Hamburg-Alsterdorf-Personalassistent-Teilzeit-18-esa-00427"
-    ],
-    "Veroeffentlichungen" : [ 
-        {
-            "Hash" : "18-esa-00427.alsternet (http://alsternet)",
-            "Kennziffer" : "18-esa-00427",
-            "OrtDerVeroeffentlichung" : "alsternet (http://alsternet)",
-            "WebLink" : "http://stage-alsternet.alsterdorf.de/aktuelles/stellenausschreibungen/stellenausschreibung/personalassistentin-mwti-in-teilzeit-20-stundenwoche/",
-            "VersteckenVia" : "http://stage-alsternet.alsterdorf.de/esajobapi/api-v1/job/hide/key/18-esa-00427/",
-            "VeroeffentlichtAm" : ISODate("2018-12-20T16:53:15.935Z"),
-            "VeroeffentlichtDurch" : "Nipken, Wolfgang (w.nipken)",
-            "VerstecktAm" : null,
-            "VerstecktDurch" : null,
-            "VeroeffentlichungsStatus" : "veroeffentlicht"
-        }, 
-        {
-            "Hash" : "18-esa-00427.ESA-Homepage www.alsterdorf.de",
-            "Kennziffer" : "18-esa-00427",
-            "OrtDerVeroeffentlichung" : "ESA-Homepage www.alsterdorf.de",
-            "WebLink" : "https://www.alsterdorf.de/mitarbeit-karriere/stellenangebote/stellenangebot/personalassistentin-mwti-in-teilzeit-20-stundenwoche.html",
-            "VersteckenVia" : "https://www.alsterdorf.de/start/esajobapi/api-v1/job/hide/key/18-esa-00427",
-            "VeroeffentlichtAm" : ISODate("2018-12-20T16:53:21.253Z"),
-            "VeroeffentlichtDurch" : "Nipken, Wolfgang (w.nipken)",
-            "VerstecktAm" : null,
-            "VerstecktDurch" : null,
-            "VeroeffentlichungsStatus" : "veroeffentlicht"
-        }, 
-        {
-            "Hash" : "18-esa-00427.ESA Jobbörse",
-            "Kennziffer" : "18-esa-00427",
-            "OrtDerVeroeffentlichung" : "ESA Jobbörse",
-            "WebLink" : "https://www.alsterdorf.de/jobs/job/Job-Hamburg-Alsterdorf-Personalassistent-Teilzeit-18-esa-00427",
-            "VersteckenVia" : "https://www.alsterdorf.de/jobs/importer/update.php?file=18-esa-00427_cde67b0b-43e7-42d5-95c6-17f6114755c1.json",
-            "VeroeffentlichtAm" : ISODate("2018-12-20T16:53:24.440Z"),
-            "VeroeffentlichtDurch" : "Nipken, Wolfgang (w.nipken)",
-            "VerstecktAm" : null,
-            "VerstecktDurch" : null,
-            "VeroeffentlichungsStatus" : "veroeffentlicht"
-        }
-    ],
-    "VeroeffentlichenAm" : ISODate("2018-12-20T14:52:25.919Z"),
-    "VeroeffentlichenAmExtern" : ISODate("2018-12-19T23:00:00.000Z"),
-    "DeaktivierungsDatum" : ISODate("2019-02-19T16:14:10.416Z"),
-    "JobBoerseHtml" : "<p>F&#252;r unser Team Personalservice im Bereich Personal suchen wir zum n&#228;chstm&#246;glichen Zeitpunkt f&#252;r die Nachmittagsstundenein*e</p><h3>Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche)</h3><strong>Ihr Arbeitsplatz</strong><p>Der Bereich Personal unterst&#252;tzt den Vorstand zum einen bei der Entwicklung und Umsetzung der personalstrategischen Zielsetzung, Organisationsentwicklung, F&#252;hrung und Steuerung des Unternehmensverbundes. Zum anderen unterst&#252;tzt der Bereich die Gesch&#228;ftsf&#252;hrungen bei der Wahrnehmung ihrer Aufgaben und Verantwortlichkeiten rund um das Thema Personalmanagement und F&#252;hrung unter Ber&#252;cksichtigung gesamtstrategischer und personalwirtschaftlicher Erfordernisse.</p><p></p><strong>Ihre Aufgaben</strong><ul><li>Anlage der digital gef&#252;hrten Personalakten, Antragsstellung bei der Mitarbeitervertretung / dem Betriebsrat von beteiligungsrelevanten personellen Einzelma&#223;nahmen, Erstellung von Arbeitsvertr&#228;gen und deren Anlagen</li><li>Sie sind Ansprechperson f&#252;r allgemeine Anfragen unserer Mitarbeitenden</li><li>Enge Zusammenarbeit mit dem Team der Entgeltabrechnung zwecks Sicherstellung einer termingerechten Umsetzungvon entgeltrelevanten &#196;nderungen</li><li>Administrative Unterst&#252;tzung wie z.B. beim Ausstellen von Bescheinigungen,im Bewerber- und Stellenanzeigenmanagement</li><li>Bearbeitung von Wiedervorlagelisten</li></ul><strong>Wir wünschen uns</strong><ul><li>Eine abgeschlossene kaufm&#228;nnische Ausbildung</li><li>Vorzugsweise Berufserfahrung im beschriebenen Aufgabenbereich</li><li>Ein hohes Ma&#223; an Einsatzbereitschaft, Sorgfalt und Zuverl&#228;ssigkeit sind uns ebenso wichtig wie eine hohe Sozialkompetenz mit ausgepr&#228;gter Serviceorientierung und die F&#228;higkeit auf Menschen einzugehen</li><li>Sehr gute PC-Kenntnisse (MS-Office, insbesondere Word und Excel)</li></ul><p>Das <a href='http://www.alsterdorf.de/fileadmin/user_upload/images/ueber-uns/leitwerte/Leitbild_der_Evangelischen_Stiftung_Alsterdorf.pdf'>Leitbild</a> unserer Stiftung spiegelt unser christliches Selbstverständnis wider und bildet die Grundlage Ihres Handelns.</p><strong>Wir bieten Ihnen</strong><ul><li>Einen zukunftstr&#228;chtigen Arbeitsplatz in einem modernen Unternehmensverbund</li><li>Ein vielf&#228;ltiges und interessantes Arbeitsfeld und ein gutes Arbeitsklima</li><li>Die M&#246;glichkeit zur selbstst&#228;ndigen Gestaltung und Weiterentwicklung des eigenen Aufgabenfeldes</li><li>Gute betriebliche Altersvorsorge (EZVK)</li><li>Zuschuss zum HVV ProfiTicket</li></ul><dl><dt>Vergütung:</dt><dd>Nach KTD (kirchlicher Tarifvertrag Diakonie)</dd><dt>Arbeitsbeginn:</dt><dd>So bald als m&#246;glich</dd><dt>Befristung:</dt><dd>Unbefristet</dd><dt>Arbeitszeit:</dt><dd>20 Stunden / Woche</dd><dt>Sonstiges:</dt><dd>Schwerbehinderte Bewerberinnen und Bewerber werden bei gleicher Qualifikation und Eignung bevorzugt eingestellt.</dd></dl><p style='display:none'>18-esa-00427 &nbsp; 1002102&nbsp; 100&nbsp; Wolfgang Nipken &nbsp; Evangelische Stiftung Alsterdorf</p>",
-    "seoUrl" : "Job-Hamburg-Alsterdorf-Personalassistent-Teilzeit-18-esa-00427",
-    "seoTitle" : "Aktuelle Jobs für Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche) in Hamburg oder Alsterdorf | Evangelische Stiftung Alsterdorf",
-    "seoDescription" : "Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche) in Hamburg oder Alsterdorf So bald als möglich gesucht",
-    "Standorte" : [ 
-        {
-            "_id" : 12,
-            "Text" : "Hamburg",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : false
-        }, 
-        {
-            "_id" : 136,
-            "Text" : "Alsterdorf",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : false
-        }
-    ],
-    "Berufsgruppen" : [ 
-        {
-            "_id" : 4,
-            "Text" : "Ärztliches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 18,
-            "Text" : "Geistliches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 16,
-            "Text" : "Kaufmännisches / administratives Personal",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 7,
-            "Text" : "Medizinisch-technisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 17,
-            "Text" : "Pädagogisches Personal in Kita´s u. Schulen",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 1,
-            "Text" : "Personal in Ausbildung",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 11,
-            "Text" : "Personal in der Assistenz",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 12,
-            "Text" : "Personal in der Kinder- und Jugendhilfe",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 15,
-            "Text" : "Personal in Handwerk, Produktion und Technik",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 13,
-            "Text" : "Personal in Hauswirtschaft und Küche",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 3,
-            "Text" : "Personal in Projektorganisation",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 2,
-            "Text" : "Personal mit Führungsverantwortung",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 5,
-            "Text" : "Pflegerisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 8,
-            "Text" : "Psychologisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 14,
-            "Text" : "Reinigungspersonal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 10,
-            "Text" : "Soziales und reha-, berufspädagogisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 9,
-            "Text" : "Sozialpsychiatrisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 6,
-            "Text" : "Therapeutisches Personal",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }
-    ],
-    "Schwerpunkte" : [ 
-        {
-            "_id" : 10,
-            "Text" : "Eingliederungshilfe",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 11,
-            "Text" : "Kinder-, Familien- & Jugendhilfe",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 12,
-            "Text" : "Sucht- & Wohnungslosenhilfe",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 13,
-            "Text" : "Seniorenbetreuung & Altenpflege",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 0,
-            "Text" : "Medizin, Gesundheitspflege & Therapie",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 14,
-            "Text" : "Psychiatrie & Sozialpsychiatrie",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 15,
-            "Text" : "Kitas & Schulen",
-           "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 16,
-            "Text" : "Werkstätten & Beschäftigungs- / Tagesförderung",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "_id" : 17,
-            "Text" : "Kaufmännisch & Gewerblich",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }
-    ],
-    "Medien" : [ 
-        {
-            "Value" : "alsternet (http://alsternet)",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : false
-        }, 
-        {
-            "Value" : "ESA-Homepage www.alsterdorf.de",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : false
-        }, 
-        {
-            "Value" : "Eigene Hompage (z. B. www.afp-alsterdorf.de oder www.alsterdorf-assistenz-west.de)",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Paket I",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Paket II",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Paket III",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Paket IV",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "medi-jobs.de Standard (30T)",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "medi-jobs.de Standard (60T)",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "kliniken.de",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "jobvector.de",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "meinestadt.de Premium (lokal-30T)",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "meinestadt.de Premium (lokal-60T)",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "hamburgerjobs.de",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "monster.de/jobpilot.de-30",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "monster.de/jobpilot.de-60",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "stepstone.de Professional-30",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "stepstone.de Professional-60",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "stepstone.de Professional-90",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "stellenanzeigen.de",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Hamburger Abendblatt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "abendblatt.de",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Hamburger Wochenblatt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Kieler Express",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Markt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Stormarner Tageblatt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Deutsches Ärzteblatt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Hamburger Ärzteblatt",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "Die Schwester / Der Pfleger",
-            "Zusatz" : null,
-            "Select" : false,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "ESA Jobbörse",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : false
-        }
-    ],
-    "BuchungskreiseVeroeffentlichung" : [ 
-        {
-            "Value" : "100",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "110",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "120",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "125",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "130",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "140",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "160",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }, 
-        {
-            "Value" : "170",
-            "Zusatz" : null,
-            "Select" : true,
-            "Editable" : true
-        }
-    ],
-    "Gesellschaftskopf" : {
-        "IfHeaderLine" : false,
-        "ClaimSelect" : {
-            "Name" : "H_Alsterdorf_RGB_P60.gif",
-            "Text" : null,
-            "Url" : null,
-            "Editable" : false
-        },
-        "ImageSelect" : {
-            "Name" : "ESA_Holding_AZ_700x365_Motiv_3.jpg",
-            "Text" : "ESA_Holding_AZ_700x365_Motiv_3.jpg",
-            "Url" : null,
-            "Editable" : true
-        },
-        "CompanyHeaderText" : {
-            "Value" : "Hier lassen sich das Familien- und Arbeitsleben wirklich gut miteinander vereinbaren.",
-            "HtmlText" : "<i><b>„Hier lassen sich das Familien- und Arbeitsleben wirklich gut miteinander vereinbaren.“</b></i><br />Die Holding der Evangelischen Stiftung Alsterdorf verantwortet die strategische Organisation der Stiftung. Sie umfasst unterschiedliche Tätigkeitsbereiche im Managementprozess und unterstützt die verschiedenen Tochtergesellschaften.",
-            "Editable" : true
-        },
-        "ClaimText" : {
-            "Value" : "Menschen sind unser Leben",
-            "HtmlText" : null,
-            "Editable" : false
-        }
-    },
-    "KurzbeschreibungEinrichtungStelleArbeitsplatz" : {
-        "StandortKurz" : {
-            "Value" : "Für unser Team Personalservice im Bereich Personal suchen wir zum nächstmöglichen Zeitpunkt für die Nachmittagsstunden  ein*e",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "WasWirdGesucht" : {
-            "Value" : "Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche)",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "IhrArbeitsPlatz" : {
-            "Value" : null,
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "StandortLang" : {
-            "Value" : "Der Bereich Personal unterstützt den Vorstand zum einen bei der Entwicklung und Umsetzung der personalstrategischen Zielsetzung, Organisationsentwicklung, Führung und Steuerung des Unternehmensverbundes. Zum anderen unterstützt der Bereich die Geschäftsführungen bei der Wahrnehmung ihrer Aufgaben und Verantwortlichkeiten rund um das Thema Personalmanagement und Führung unter Berücksichtigung gesamtstrategischer und personalwirtschaftlicher Erfordernisse.",
-            "HtmlText" : null,
-            "Editable" : true
-        }
-    },
-    "Leitbild" : {
-        "Value" : "Das <a href='http://www.alsterdorf.de/fileadmin/user_upload/images/ueber-uns/leitwerte/Leitbild_der_Evangelischen_Stiftung_Alsterdorf.pdf'>Leitbild</a> unserer Stiftung spiegelt unser christliches Selbstverständnis wider und bildet die Grundlage Ihres Handelns.",
-        "HtmlText" : null,
-        "Editable" : false
-    },
-    "Anforderer1" : {
-        "Username" : "i.reinhold",
-        "MitarbeiterName" : "Reinhold, Irene",
-        "_id" : "i.reinhold",
-        "text" : "Reinhold, Irene (i.reinhold)",
-        "Value" : null,
-        "Editable" : true
-    },
-    "Anforderer2" : {
-        "Username" : "w.nipken",
-        "MitarbeiterName" : "Nipken, Wolfgang",
-        "_id" : "w.nipken",
-        "text" : "Nipken, Wolfgang (w.nipken)",
-        "Value" : null,
-        "Editable" : true
-    },
-    "Anforderer3" : {
-        "Username" : "",
-        "MitarbeiterName" : "",
-        "_id" : "",
-        "text" : "",
-        "Value" : "",
-        "Editable" : true
-    },
-    "WersollNochInformiertWerden" : [],
-    "Standort" : {
-        "Value" : null,
-        "Zusatz" : null,
-        "Select" : false,
-        "Editable" : true
-    },
-    "IhreAufgaben" : [ 
-        {
-            "Index" : 0,
-            "Value" : "Anlage der digital geführten Personalakten, Antragsstellung bei der Mitarbeitervertretung / dem Betriebsrat von beteiligungsrelevanten personellen Einzelmaßnahmen, Erstellung von Arbeitsverträgen und deren Anlagen",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 1,
-            "Value" : "Sie sind Ansprechperson für allgemeine Anfragen unserer Mitarbeitenden",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 2,
-            "Value" : "Enge Zusammenarbeit mit dem Team der Entgeltabrechnung zwecks Sicherstellung einer termingerechten Umsetzung  von entgeltrelevanten Änderungen",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 3,
-            "Value" : "Administrative Unterstützung wie z.B. beim Ausstellen von Bescheinigungen,  im Bewerber- und Stellenanzeigenmanagement",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 4,
-            "Value" : "Bearbeitung von Wiedervorlagelisten",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 5,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 6,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 7,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }
-    ],
-    "WirBietenIhnen" : [ 
-        {
-            "Index" : 0,
-            "Value" : "Einen zukunftsträchtigen Arbeitsplatz in einem modernen Unternehmensverbund",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 1,
-            "Value" : "Ein vielfältiges und interessantes Arbeitsfeld und ein gutes Arbeitsklima",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 2,
-            "Value" : "Die Möglichkeit zur selbstständigen Gestaltung und Weiterentwicklung des eigenen Aufgabenfeldes",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 3,
-            "Value" : "Gute betriebliche Altersvorsorge (EZVK)",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 4,
-            "Value" : "Zuschuss zum HVV ProfiTicket",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 5,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 6,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 7,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }
-    ],
-    "WirWuenschenUns" : [ 
-        {
-            "Index" : 0,
-            "Value" : "Eine abgeschlossene kaufmännische Ausbildung",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 1,
-            "Value" : "Vorzugsweise Berufserfahrung im beschriebenen Aufgabenbereich",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 2,
-            "Value" : "Ein hohes Maß an Einsatzbereitschaft, Sorgfalt und Zuverlässigkeit sind uns ebenso wichtig wie eine hohe Sozialkompetenz mit ausgeprägter Serviceorientierung und die Fähigkeit auf Menschen einzugehen",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 3,
-            "Value" : "Sehr gute PC-Kenntnisse (MS-Office, insbesondere Word und Excel)",
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 4,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 5,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 6,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }, 
-        {
-            "Index" : 7,
-            "Value" : null,
-            "Name" : null,
-            "Editable" : true
-        }
-    ],
-    "Zertifikate" : [],
-    "Kontakt" : {
-        "Name" : {
-            "Value" : "Wolfgang Nipken",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Titel" : {
-            "Value" : "Leitung Bereich Personalservice",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Telefon" : {
-            "Value" : "04050773641",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Image" : {
-            "Value" : null,
-            "HtmlText" : null,
-            "Editable" : false
-        }
-    },
-    "EmpfaengerDerBewerbungen" : {
-        "FirmenName" : {
-            "Value" : "Evangelische Stiftung Alsterdorf",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Abteilung" : {
-            "Value" : null,
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Strasse" : {
-            "Value" : "Postfach 600703",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "PlzOrt" : {
-            "Value" : "22207 Hamburg",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Zusatz" : {
-            "Value" : null,
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Mail" : {
-            "Value" : "bewerbung@alsterdorf.de",
-            "HtmlText" : null,
-            "Editable" : true
-        },
-        "Url" : {
-            "Value" : null,
-            "HtmlText" : null,
-            "Editable" : true
-        }
-    },
-    "Verguetung" : {
-        "Value" : "Nach KTD (kirchlicher Tarifvertrag Diakonie)",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "Arbeitsbeginn" : {
-        "Value" : "So bald als möglich",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "Befristung" : {
-        "Value" : "Unbefristet",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "Arbeitszeit" : {
-        "Value" : "20 Stunden / Woche",
-        "HtmlText" : null,
-        "Editable" : true
-    },
-    "Sonstiges" : {
-        "Value" : "Schwerbehinderte Bewerberinnen und Bewerber werden bei gleicher Qualifikation und Eignung bevorzugt eingestellt.",
-        "HtmlText" : null,
-        "Editable" : false
-    },
-    "Stufe1" : {
-        "Username" : null,
-        "Zeitstempel" : Date(-62135596800000)
-    },
-    "Stufe2" : {
-        "Username" : null,
-        "Zeitstempel" : Date(-62135596800000)
-    },
-    "Stufe3" : {
-        "Username" : "v.lueck2",
-        "Zeitstempel" : ISODate("2018-12-21T16:16:04.939Z")
-    },
-    "ArbeitsZeitVollTeilZeit" : "Teilzeit",
-    "ArbeitsZeitBefristetUnbefristet" : null,
-    "GesellschaftsFarbCode" : "#936893"
+	"_id" : ObjectId("5c1bacb8698d8a25205373c1"),
+	"ArtDieserVorlage" : "Stellenanzeige",
+	"Kennziffer" : "18-esa-00427",
+	"Doku_Id" : "P003757856",
+	"LastUser" : "v.lueck2",
+	"LastEdit" : ISODate("2018-12-21T16:16:05.416Z"),
+	"Ausschreibungsstatus" : "offen",
+	"Bearbeitungsstatus" : "Veröffentlicht",
+	"Buchungskreis" : "100",
+	"Postfach" : {
+		"Value" : null,
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"Kostenstelle" : {
+		"Value" : "1002102",
+		"HtmlText" : null,
+		"_id" : "1002102",
+		"text" : "1002102 Personalservice",
+		"Editable" : true
+	},
+	"KostenstelleBezeichnung" : null,
+	"TextAlsterdorf" : {
+		"Value" : "Willkommen in der Evangelischen Stiftung Alsterdorf. Als diakonisches Dienstleistungsunternehmen in Norddeutschland mit rund 6.000 Mitarbeitenden sind wir schwerpunktmäßig in den Bereichen Eingliederungshilfe, Bildung und Medizin tätig.",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"UrlDerGesellschaft" : {
+		"Value" : "www.alsterdorf.de",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"UrlDerEsa" : {
+		"Value" : null,
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"UrlDerAnzeige" : [ 
+		"http://stage-alsternet.alsterdorf.de/aktuelles/stellenausschreibungen/stellenausschreibung/personalassistentin-mwti-in-teilzeit-20-stundenwoche/", 
+		"https://www.alsterdorf.de/mitarbeit-karriere/stellenangebote/stellenangebot/personalassistentin-mwti-in-teilzeit-20-stundenwoche.html", 
+		"https://www.alsterdorf.de/jobs/job/Job-Hamburg-Alsterdorf-Personalassistent-Teilzeit-18-esa-00427"
+	],
+	"Veroeffentlichungen" : [ 
+		{
+			"Hash" : "18-esa-00427.alsternet (http://alsternet)",
+			"Kennziffer" : "18-esa-00427",
+			"OrtDerVeroeffentlichung" : "alsternet (http://alsternet)",
+			"WebLink" : "http://stage-alsternet.alsterdorf.de/aktuelles/stellenausschreibungen/stellenausschreibung/personalassistentin-mwti-in-teilzeit-20-stundenwoche/",
+			"VersteckenVia" : "http://stage-alsternet.alsterdorf.de/esajobapi/api-v1/job/hide/key/18-esa-00427/",
+			"VeroeffentlichtAm" : ISODate("2018-12-20T16:53:15.935Z"),
+			"VeroeffentlichtDurch" : "Nipken, Wolfgang (w.nipken)",
+			"VerstecktAm" : null,
+			"VerstecktDurch" : null,
+			"VeroeffentlichungsStatus" : "veroeffentlicht"
+		}, 
+		{
+			"Hash" : "18-esa-00427.ESA-Homepage www.alsterdorf.de",
+			"Kennziffer" : "18-esa-00427",
+			"OrtDerVeroeffentlichung" : "ESA-Homepage www.alsterdorf.de",
+			"WebLink" : "https://www.alsterdorf.de/mitarbeit-karriere/stellenangebote/stellenangebot/personalassistentin-mwti-in-teilzeit-20-stundenwoche.html",
+			"VersteckenVia" : "https://www.alsterdorf.de/start/esajobapi/api-v1/job/hide/key/18-esa-00427",
+			"VeroeffentlichtAm" : ISODate("2018-12-20T16:53:21.253Z"),
+			"VeroeffentlichtDurch" : "Nipken, Wolfgang (w.nipken)",
+			"VerstecktAm" : null,
+			"VerstecktDurch" : null,
+			"VeroeffentlichungsStatus" : "veroeffentlicht"
+		}
+	],
+	"VeroeffentlichenAm" : ISODate("2018-12-20T14:52:25.919Z"),
+	"VeroeffentlichenAmExtern" : ISODate("2018-12-19T23:00:00.000Z"),
+	"DeaktivierungsDatum" : ISODate("2019-02-19T16:14:10.416Z"),
+	"JobBoerseHtml" : "<p>F&#252;r unser Team Personalservice im Bereich Personal suchen wir zum n&#228;chstm&#246;glichen Zeitpunkt f&#252;r die Nachmittagsstundenein*e</p>",
+	"seoUrl" : "Job-Hamburg-Alsterdorf-Personalassistent-Teilzeit-18-esa-00427",
+	"seoTitle" : "Aktuelle Jobs für Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche) in Hamburg oder Alsterdorf | Evangelische Stiftung Alsterdorf",
+	"seoDescription" : "Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche) in Hamburg oder Alsterdorf So bald als möglich gesucht",
+	"Standorte" : [ 
+		{
+			"_id" : 12,
+			"Text" : "Hamburg",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : false
+		}, 
+		{
+			"_id" : 136,
+			"Text" : "Alsterdorf",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : false
+		}
+	],
+	"Berufsgruppen" : [ 
+		{
+			"_id" : 4,
+			"Text" : "Ärztliches Personal",
+			"Zusatz" : null,
+			"Select" : false,
+			"Editable" : true
+		}, 
+		{
+			"_id" : 18,
+			"Text" : "Geistliches Personal",
+			"Zusatz" : null,
+			"Select" : false,
+			"Editable" : true
+		}, 
+		{
+			"_id" : 16,
+			"Text" : "Kaufmännisches / administratives Personal",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}
+	],
+	"Schwerpunkte" : [ 
+		{
+			"_id" : 10,
+			"Text" : "Eingliederungshilfe",
+			"Zusatz" : null,
+			"Select" : false,
+			"Editable" : true
+		},
+		{
+			"_id" : 16,
+			"Text" : "Werkstätten & Beschäftigungs- / Tagesförderung",
+			"Zusatz" : null,
+			"Select" : false,
+			"Editable" : true
+		}, 
+		{
+			"_id" : 17,
+			"Text" : "Kaufmännisch & Gewerblich",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}
+	],
+	"Medien" : [ 
+		{
+			"Value" : "alsternet (http://alsternet)",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : false
+		}, 
+		{
+			"Value" : "ESA-Homepage www.alsterdorf.de",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : false
+		}, 
+		{
+			"Value" : "Eigene Hompage (z. B. www.afp-alsterdorf.de oder www.alsterdorf-assistenz-west.de)",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}, 
+		{
+			"Value" : "Paket I",
+			"Zusatz" : null,
+			"Select" : false,
+			"Editable" : true
+		}
+	],
+	"BuchungskreiseVeroeffentlichung" : [ 
+		{
+			"Value" : "100",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}
+		{
+			"Value" : "160",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}, 
+		{
+			"Value" : "170",
+			"Zusatz" : null,
+			"Select" : true,
+			"Editable" : true
+		}
+	],
+	"Gesellschaftskopf" : {
+		"IfHeaderLine" : false,
+		"ClaimSelect" : {
+			"Name" : "H_Alsterdorf_RGB_P60.gif",
+			"Text" : null,
+			"Url" : null,
+			"Editable" : false
+		},
+		"ImageSelect" : {
+			"Name" : "ESA_Holding_AZ_700x365_Motiv_3.jpg",
+			"Text" : "ESA_Holding_AZ_700x365_Motiv_3.jpg",
+			"Url" : null,
+			"Editable" : true
+		},
+		"CompanyHeaderText" : {
+			"Value" : "Hier lassen sich das Familien- und Arbeitsleben wirklich gut miteinander vereinbaren.",
+			"HtmlText" : "<i><b>„Hier lassen sich das Familien- und Arbeitsleben wirklich gut miteinander vereinbaren.“</b></i><br />",
+			"Editable" : true
+		},
+		"ClaimText" : {
+			"Value" : "Menschen sind unser Leben",
+			"HtmlText" : null,
+			"Editable" : false
+		}
+	},
+	"KurzbeschreibungEinrichtungStelleArbeitsplatz" : {
+		"StandortKurz" : {
+			"Value" : "Für unser Team Personalservice im Bereich Personal suchen wir zum nächstmöglichen Zeitpunkt für die Nachmittagsstunden  ein*e",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"WasWirdGesucht" : {
+			"Value" : "Personalassistent*in (m/w/t/i) in Teilzeit (20 Stunden/Woche)",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"IhrArbeitsPlatz" : {
+			"Value" : null,
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"StandortLang" : {
+			"Value" : "Der Bereich Personal unterstützt den Vorstand zum einen bei ...",
+			"HtmlText" : null,
+			"Editable" : true
+		}
+	},
+	"Leitbild" : {
+		"Value" : "Das <a href='http://www.alsterdorf.de/fileadmin/user_upload/images/ueber-uns/leitwerte/Leitbild_der_Evangelischen_Stiftung_Alsterdorf.pdf'>Leitbild</a> unserer Stiftung spiegelt unser christliches Selbstverständnis wider und bildet die Grundlage Ihres Handelns.",
+		"HtmlText" : null,
+		"Editable" : false
+	},
+	"Anforderer1" : {
+		"Username" : "i.reinhold",
+		"MitarbeiterName" : "Reinhold, Irene",
+		"_id" : "i.reinhold",
+		"text" : "Reinhold, Irene (i.reinhold)",
+		"Value" : null,
+		"Editable" : true
+	},
+	"Anforderer2" : {
+		"Username" : "w.nipken",
+		"MitarbeiterName" : "Nipken, Wolfgang",
+		"_id" : "w.nipken",
+		"text" : "Nipken, Wolfgang (w.nipken)",
+		"Value" : null,
+		"Editable" : true
+	},
+	"Anforderer3" : {
+		"Username" : "",
+		"MitarbeiterName" : "",
+		"_id" : "",
+		"text" : "",
+		"Value" : "",
+		"Editable" : true
+	},
+	"WersollNochInformiertWerden" : [],
+	"Standort" : {
+		"Value" : null,
+		"Zusatz" : null,
+		"Select" : false,
+		"Editable" : true
+	},
+	"IhreAufgaben" : [ 
+		{
+			"Index" : 0,
+			"Value" : "Anlage der digital geführten Personalakten, Antragsstellung bei der Mitarbeitervertretung / dem Betriebsrat von beteiligungsrelevanten personellen Einzelmaßnahmen, Erstellung von Arbeitsverträgen und deren Anlagen",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 1,
+			"Value" : "Sie sind Ansprechperson für allgemeine Anfragen unserer Mitarbeitenden",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 2,
+			"Value" : "Enge Zusammenarbeit mit dem Team der Entgeltabrechnung zwecks Sicherstellung einer termingerechten Umsetzung  von entgeltrelevanten Änderungen",
+			"Name" : null,
+			"Editable" : true
+		}
+	],
+	"WirBietenIhnen" : [ 
+		{
+			"Index" : 0,
+			"Value" : "Einen zukunftsträchtigen Arbeitsplatz in einem modernen Unternehmensverbund",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 1,
+			"Value" : "Ein vielfältiges und interessantes Arbeitsfeld und ein gutes Arbeitsklima",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 2,
+			"Value" : "Die Möglichkeit zur selbstständigen Gestaltung und Weiterentwicklung des eigenen Aufgabenfeldes",
+			"Name" : null,
+			"Editable" : true
+		}
+	],
+	"WirWuenschenUns" : [ 
+		{
+			"Index" : 0,
+			"Value" : "Eine abgeschlossene kaufmännische Ausbildung",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 1,
+			"Value" : "Vorzugsweise Berufserfahrung im beschriebenen Aufgabenbereich",
+			"Name" : null,
+			"Editable" : true
+		}, 
+		{
+			"Index" : 2,
+			"Value" : "Ein hohes Maß an Einsatzbereitschaft, Sorgfalt und Zuverlässigkeit sind uns ebenso wichtig wie eine hohe Sozialkompetenz mit ausgeprägter Serviceorientierung und die Fähigkeit auf Menschen einzugehen",
+			"Name" : null,
+			"Editable" : true
+		}
+	],
+	"Zertifikate" : [],
+	"Kontakt" : {
+		"Name" : {
+			"Value" : "Wolfgang Nipken",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Titel" : {
+			"Value" : "Leitung Bereich Personalservice",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Telefon" : {
+			"Value" : "04050773641",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Image" : {
+			"Value" : null,
+			"HtmlText" : null,
+			"Editable" : false
+		}
+	},
+	"EmpfaengerDerBewerbungen" : {
+		"FirmenName" : {
+			"Value" : "Evangelische Stiftung Alsterdorf",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Abteilung" : {
+			"Value" : null,
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Strasse" : {
+			"Value" : "Postfach 600703",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"PlzOrt" : {
+			"Value" : "22207 Hamburg",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Zusatz" : {
+			"Value" : null,
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Mail" : {
+			"Value" : "bewerbung@alsterdorf.de",
+			"HtmlText" : null,
+			"Editable" : true
+		},
+		"Url" : {
+			"Value" : null,
+			"HtmlText" : null,
+			"Editable" : true
+		}
+	},
+	"Verguetung" : {
+		"Value" : "Nach KTD (kirchlicher Tarifvertrag Diakonie)",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"Arbeitsbeginn" : {
+		"Value" : "So bald als möglich",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"Befristung" : {
+		"Value" : "Unbefristet",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"Arbeitszeit" : {
+		"Value" : "20 Stunden / Woche",
+		"HtmlText" : null,
+		"Editable" : true
+	},
+	"Sonstiges" : {
+		"Value" : "Schwerbehinderte Bewerberinnen und Bewerber werden bei gleicher Qualifikation und Eignung bevorzugt eingestellt.",
+		"HtmlText" : null,
+		"Editable" : false
+	},	
+	"Stufe1" : {
+		"Username" : null,
+		"Zeitstempel" : Date(-62135596800000)
+	},	
+	"Stufe2" : {
+		"Username" : null,
+		"Zeitstempel" : Date(-62135596800000)
+	},
+	"Stufe3" : {
+		"Username" : "v.lueck2",
+		"Zeitstempel" : ISODate("2018-12-21T16:16:04.939Z")
+	},
+	"ArbeitsZeitVollTeilZeit" : "Teilzeit",
+	"ArbeitsZeitBefristetUnbefristet" : null,
+	"GesellschaftsFarbCode" : "#936893"
 }
